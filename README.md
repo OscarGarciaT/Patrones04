@@ -1,2 +1,3 @@
 # Patrones04
-# Juan Pisco
+# Juan Pisco  
+Ramos Pozo
